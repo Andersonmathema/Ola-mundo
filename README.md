@@ -1,2 +1,2 @@
-# Ola mundo
- Repositório curso em vídeo
+# Olá,  mundo!
+ Repositório curso em vídeo 2024
